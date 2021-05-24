@@ -30,3 +30,20 @@ h1{
 #azzurro{
     color: #53bceb; 25
 }
+
+#highlighted{
+    background-color: #ffff00;
+}
+
+table{
+    width: 100%;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: #ffffff;
+}
+
+.row-azzurra{
+    background-color: #b1e5f2;
+}
