@@ -47,3 +47,30 @@ thead{
 .row-azzurra{
     background-color: #b1e5f2;
 }
+/* Fine main */
+
+/* Inizio footer */
+#grigio{
+    color: #949494;
+    font-weight: 600;
+}
+
+.footer-image{
+    width: 220px;
+    height: 200px;
+    color: #ffffff;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.uno{
+    background-image: url(./img-booleaner/monitor.jpg);
+}
+
+.due{
+    background-image: url(./img-booleaner/graph.jpg);
+}
+
+/* Fine footer */
